@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
 You can use the [editor on GitHub](https://github.com/StevenRussell/steven.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -31,7 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Steven Russell
 ykf1@cdc.gov
 
 
